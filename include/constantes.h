@@ -1,0 +1,12 @@
+#ifndef _CONSTANTES_H_
+#define _CONSTANTES_H_
+
+#define MAX_TITULO 100
+
+#define MAX_NOME_AUTOR 100
+
+#define MAX_CAMINHO_ARQUIVO 260
+
+#define MAX_TITULO_CRIPTOGRAFADO ((MAX_TITULO * 2) + 1)
+
+#endif
